@@ -1,13 +1,14 @@
 # ITMS441
+# ITMS441
 
 New Method
 
 # `calculateSum`
-
+# `calculateSum`
 A utility function to calculate the sum of an array of numbers.
-
+# `calculateSum`
 ## Syntax
-
+# `calculateSum`
 ```javascript```
 calculateSum(numbers)
 
